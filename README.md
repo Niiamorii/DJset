@@ -13,4 +13,13 @@ Il ne contient aucun extrait du jeu DJ Set.
 - La lecture doit etre verifiee dans VRChat sur PC puis sur Quest autonome.
 - La compatibilite GitHub/VizVid/Quest n'est pas encore confirmee.
 
-La Release `test-v1` doit fournir ce fichier comme piece jointe.
+La Release [`test-v1`](https://github.com/Niiamorii/DJset/releases/tag/test-v1) fournit ce fichier comme piece jointe.
+
+URL directe a coller dans VizVid :
+
+```text
+https://github.com/Niiamorii/DJset/releases/download/test-v1/DJSet_Test_Lecture_GitHub_20261011.mp3
+```
+
+Le lien public, le contenu du MP3 et les requetes HTTP Range ont ete verifies.
+La lecture dans le client VRChat reste a tester sur PC et Quest autonome.
